@@ -1,6 +1,6 @@
 ## Uber Clone
 
-# Clerk For Authentication and Neon for Database 
+# Clerk For Authentication, Neon for Database and Google API for direction and location search
 
 # React Native 
 
