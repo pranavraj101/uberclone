@@ -35,6 +35,9 @@ UberClone is a ride-hailing platform designed to mimic the core functionality of
 
 ---
 
+![Untitled](https://github.com/user-attachments/assets/773cbc67-d883-428d-8c8c-bc272c0752a7)
+
+
 ![WhatsApp Image 2024-09-09 at 12 18 51 AM (1)](https://github.com/user-attachments/assets/7a604650-3461-4be4-adf1-95ae9d509f7f)
 ![WhatsApp Image 2024-09-09 at 12 18 52 AM](https://github.com/user-attachments/assets/874c1e48-8181-4a6d-989b-7266a3a9d49a)
 ![WhatsApp Image 2024-09-09 at 12 18 53 AM](https://github.com/user-attachments/assets/8d2a5e47-37a6-49f6-8140-1320d2909081)
