@@ -2,7 +2,38 @@
 
 # Clerk For Authentication, Neon for Database and Google API for direction and location search
 
-# React Native 
+
+
+**Project Title**: UberClone – Ride-hailing Application
+
+**Overview**:  
+UberClone is a ride-hailing platform designed to mimic the core functionality of popular ride-sharing services. The application allows users to book rides, view nearby drivers, track their location in real-time, and get fare estimates. The backend and frontend of the app are integrated with cutting-edge technologies, including Google API for location services, Clerk for user authentication, and Neon for the database.
+
+**Features**:
+1. **User Authentication (Clerk)**:
+   - Secure user registration and login process.
+   - OAuth integration for seamless authentication (Google, Facebook, etc.).
+   - Role-based access control for drivers and riders.
+
+2. **Location Services (Google API)**:
+   - Real-time location tracking for both drivers and riders.
+   - Google Maps integration for selecting pickup/drop-off points.
+   - Estimated ride time and distance calculation using Google Distance Matrix API.
+   - Display of nearby available drivers for quick pickup.
+
+3. **Database (Neon)**:
+   - Highly scalable and low-latency database for storing user, driver, and ride information.
+   - Efficient queries for ride history, user profiles, and driver schedules.
+   - Support for real-time ride status updates and transactional data consistency.
+
+**Tech Stack**:
+- **Frontend**: React Native (for cross-platform mobile app development).
+- **Backend**: Node.js (RESTful API server).
+- **Database**: Neon (PostgreSQL-based cloud database).
+- **Authentication**: Clerk (modern user authentication solution).
+- **APIs**: Google Maps API for location services and distance calculations.
+
+---
 
 ![WhatsApp Image 2024-09-09 at 12 18 51 AM (1)](https://github.com/user-attachments/assets/7a604650-3461-4be4-adf1-95ae9d509f7f)
 ![WhatsApp Image 2024-09-09 at 12 18 52 AM](https://github.com/user-attachments/assets/874c1e48-8181-4a6d-989b-7266a3a9d49a)
